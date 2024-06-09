@@ -13,7 +13,6 @@ Welcome to the CashLink Landing Page project! This repository contains my soluti
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
   - [Useful Resources](#useful-resources)
-- [Author](#author)
 - [Project Structure](#project-structure)
 
 ## Overview
@@ -32,7 +31,7 @@ The main objectives of this project are to:
 
 ### Links
 
-- 🔗 [Solution URL](https://github.com/yourusername/cashlink-landing-page)
+- 🔗 [Solution URL](https://github.com/manikkhan02/Responsive-Landing-Page/tree/main)
 - 🌐 [Live Demo](https://yourusername.github.io/cashlink-landing-page/)
 
 ## My Process
@@ -66,11 +65,6 @@ Future improvements and areas of focus:
 - 📚 [MDN Web Docs](https://developer.mozilla.org/)
 - 💡 [CSS Tricks](https://css-tricks.com/)
 
-## Author
-
-- 🌐 Website: [Your Name](https://yourwebsite.com)
-- 💼 Frontend Mentor: [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- 🐦 Twitter: [@yourusername](https://www.twitter.com/yourusername)
 
 ## Project Structure
 
