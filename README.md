@@ -32,7 +32,7 @@ The main objectives of this project are to:
 ### Links
 
 - 🔗 [Solution URL](https://github.com/manikkhan02/Responsive-Landing-Page/tree/main)
-- 🌐 [Live Demo](https://yourusername.github.io/cashlink-landing-page/)
+- 🌐 [Live Demo](https://velvety-boba-eb497a.netlify.app/)
 
 ## My Process
 
